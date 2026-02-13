@@ -22,3 +22,7 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 - Sistema de Inventario en Excel (VBA) — formularios + CRUD + automatización.  
   👉 https://github.com/AlexisSG20/sistema-inventario-excel-vba
+
+- Power BI Dashboard (KPIs y filtros) — reporte ejecutivo interactivo.  
+  👉 https://github.com/AlexisSG20/dashboard-powerbi-kpis
+
