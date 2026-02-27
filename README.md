@@ -9,6 +9,12 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
   Landing + menú responsive (mobile-first).  
   👉 https://github.com/AlexisSG20/web-restaurante
 
+## ⚙️ Fullstack / Sistemas
+
+- **Courts Booking System (MVP / en progreso)** — Reservas por cancha/fecha, validación por QR/token (check-in), panel admin, export a Excel.  
+  Stack: NestJS + Prisma + PostgreSQL + React (Vite) + Tailwind.  
+  👉 https://github.com/AlexisSG20/courts-booking-system
+
 ---
 
 ## 🗄️ SQL / Bases de Datos
