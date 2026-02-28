@@ -15,7 +15,7 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
   👉 https://github.com/AlexisSG20/web-restaurante
 
 ## 🌐 Portfolio Web (Demo)
-- **Web Portafolio (Wordpress + Astra)**  
+- **Web Portafolio (Wordpress + Elementor + Astra + Spectra + WPForms + SMTP)**  
   Portafolio publicado en Netlify (export de WordPress).  
   👉 https://alexis-portfolio-cv.netlify.app
 
