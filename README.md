@@ -16,7 +16,7 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ## 🌐 Portfolio Web (Demo)
 - **Web Portfolio (WordPress + Elementor + Astra + Spectra + WPForms + SMTP)**  
-  Demo publicada en Netlify (export de WordPress).                            
+  Demo publicada en Netlify (export de WordPress).  
   👉 https://alexis-portfolio-cv.netlify.app
 
 ---
