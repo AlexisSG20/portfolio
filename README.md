@@ -5,7 +5,7 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 ---
 ## ⚙️ Fullstack / Sistemas
 
-- **Courts Booking System**
+- **Courts Booking System**                                                                            
   Sistema fullstack de reservas de canchas con validación por token/QR, check-in, panel admin y exportación a Excel.                                                       
   Stack: React (Vite) + Tailwind CSS + NestJS + Prisma + PostgreSQL.                                                                                               
   👉 https://github.com/AlexisSG20/courts-booking-system
