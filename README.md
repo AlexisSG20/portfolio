@@ -14,7 +14,7 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 - **NovaShop (WordPress Theme + Demo Web)**  
   Tema personalizado de WordPress desarrollado desde cero con PHP, HTML, CSS y JavaScript. Demo tipo ecommerce/editorial para moda con páginas de inicio, productos, hombre, mujer, nosotros y contacto.  
-  👉 https://github.com/AlexisSG20/novashop
+  👉 [https://github.com/AlexisSG20/novashop](https://github.com/AlexisSG20/novashop-demo.git)
 
 - **Web Restaurante (Angular + Tailwind)**  
   Landing + menú responsive (mobile-first).  
