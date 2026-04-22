@@ -34,11 +34,13 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ---
 
-## 📊 Data Analytics / BI (Excel VBA + Power BI)
+## 📊 Data Analytics / BI / Automatización
 
-- Sistema de Inventario en Excel (VBA) — formularios + CRUD + automatización.  
+- **Dashboard Comercial Retail (Python + SQL Server + Power BI)**  
+  Dashboard ejecutivo para analizar ventas, utilidad, margen, ticket promedio, desempeño por tienda/categoría/producto y cumplimiento de metas.  
+  👉 https://github.com/AlexisSG20/dashboard-comercial-retail
+
+- **Sistema de Inventario en Excel (VBA)**  
+  Formularios, CRUD y automatización para control de entradas y salidas.  
   👉 https://github.com/AlexisSG20/sistema-inventario-excel-vba
-
-- Power BI Dashboard (KPIs y filtros) — reporte ejecutivo interactivo.  
-  👉 https://github.com/AlexisSG20/dashboard-powerbi-kpis
 
