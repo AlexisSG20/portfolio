@@ -36,12 +36,12 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ## 📊 Data Analytics / BI / Automatización
 
-- **Dashboard Comercial Retail (Python + SQL Server + Power BI)**  
-  Dashboard ejecutivo para analizar ventas, utilidad, margen, ticket promedio, desempeño por tienda/categoría/producto y cumplimiento de metas.  
-  👉 https://github.com/AlexisSG20/dashboard-comercial-retail
-
 - **Reporte Comercial Automatizado en Excel**  
   Consolidación y limpieza de reportes comerciales desde múltiples archivos Excel usando Power Query, con dashboard ejecutivo, segmentadores y actualización automática. 
   Stack: Excel + Power Query + Python + Tablas dinámicas.  
   👉 https://github.com/AlexisSG20/reporte-comercial-automatizado-excel
+
+- **Dashboard Comercial Retail (Python + SQL Server + Power BI)**  
+  Dashboard ejecutivo para analizar ventas, utilidad, margen, ticket promedio, desempeño por tienda/categoría/producto y cumplimiento de metas.  
+  👉 https://github.com/AlexisSG20/dashboard-comercial-retail
 
