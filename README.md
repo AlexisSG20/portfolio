@@ -36,6 +36,11 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ## 📊 Data Analytics / BI / Automatización
 
+- **Análisis Operativo de Tickets de Soporte con Tableau**  
+  Dashboard operativo para monitorear tickets de soporte, backlog, cumplimiento SLA, tiempos de resolución y satisfacción del cliente. Incluye dataset sintético generado con Python, dashboard publicado en Tableau Public y documentación técnica PDF.  
+  Stack: Python + Pandas + Tableau + CSV + GitHub.  
+  👉 https://github.com/AlexisSG20/analisis-tickets-soporte-tableau
+
 - **Reporte Comercial Automatizado en Excel**  
   Consolidación y limpieza de reportes comerciales desde múltiples archivos Excel usando Power Query, con dashboard ejecutivo, segmentadores y actualización automática. 
   Stack: Excel + Power Query + Python + Tablas dinámicas.  
