@@ -28,9 +28,11 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 ---
 
 ## 🗄️ SQL / Bases de Datos
-- **Clínica Odontológica (PostgreSQL)**  
-  Scripts `schema/seed`, consultas `JOINs`, agregaciones y subconsultas + diagrama ER.  
-  👉 https://github.com/AlexisSG20/clinica-odontologica-db
+
+- **Sistema de Inventario y Ventas con SQL Server**  
+  Base de datos relacional para simular un sistema empresarial de inventario, ventas y control de stock. Incluye modelado relacional, scripts de creación y carga de datos, vistas, stored procedures, functions, trigger de auditoría, índices, consultas operativas/reportes, diagrama ER y documentación técnica.  
+  Stack: SQL Server + T-SQL + SSMS + dbdiagram.io.  
+  👉 https://github.com/AlexisSG20/sistema-inventario-ventas-sqlserver
 
 ---
 
