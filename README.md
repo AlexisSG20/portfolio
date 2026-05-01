@@ -29,6 +29,11 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ## 🗄️ SQL / Bases de Datos
 
+- **Sistema de Incidencias y SLA (Oracle PL/SQL)**  
+  Sistema de base de datos empresarial que simula una mesa de ayuda tecnológica, con gestión de incidencias, reglas SLA, vistas operativas, procedures, functions, triggers, package PL/SQL, historial y auditoría de cambios.  
+  Stack: Oracle Database XE 21c + SQL + PL/SQL + SQL Developer.  
+  👉 https://github.com/AlexisSG20/sistema-incidencias-sla-oracle-plsql
+
 - **Sistema de Inventario y Ventas con SQL Server**  
   Base de datos relacional para simular un sistema empresarial de inventario, ventas y control de stock. Incluye modelado relacional, scripts de creación y carga de datos, vistas, stored procedures, functions, trigger de auditoría, índices, consultas operativas/reportes, diagrama ER y documentación técnica.  
   Stack: SQL Server + T-SQL + SSMS + dbdiagram.io.  
