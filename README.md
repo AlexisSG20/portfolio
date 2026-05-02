@@ -29,6 +29,11 @@ Repositorio índice con mis proyectos destacados en SQL/Bases de Datos y Desarro
 
 ## 🗄️ SQL / Bases de Datos
 
+- **Sistema de Auditoría de Datos y Reportes Operativos (PostgreSQL)**  
+  Proyecto de base de datos orientado a SQL analítico, calidad de datos y reporting operativo. Simula una empresa comercial con clientes, productos, ventas, facturas y pagos, incorporando errores controlados para detectar duplicados, nulos críticos, fechas futuras, montos inconsistentes, pagos pendientes y ventas observadas.  
+  Stack: PostgreSQL + SQL Analítico + pgAdmin + dbdiagram.io.  
+  👉 https://github.com/AlexisSG20/auditoria-datos-reportes-postgresql
+
 - **Sistema de Incidencias y SLA (Oracle PL/SQL)**  
   Sistema de base de datos empresarial que simula una mesa de ayuda tecnológica, con gestión de incidencias, reglas SLA, vistas operativas, procedures, functions, triggers, package PL/SQL, historial y auditoría de cambios.  
   Stack: Oracle Database XE 21c + SQL + PL/SQL + SQL Developer.  
